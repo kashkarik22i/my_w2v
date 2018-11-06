@@ -1,2 +1,4 @@
-# my_w2v
-a no-library word2vec implementation attempt
+# DO NOT USE IT
+# IT IS SLOW OR DOES NOT WORD
+# IT MAY BE TOTALLY INCORRECT
+# FOR PERSONAL USE ONLY
